@@ -7,16 +7,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=bdfff9&center=true&vCenter=true&random=false&width=600&height=50&lines=Bienvenido%20%F0%9F%91%8B;Soy%20Miguel%20Mallqui;Te%20invito%20a%20conocer%20mi%20perfil" alt="Typing SVG" />
 </div>
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yassppy&style=flat-square&color=bdfff9)
+
+</div>
 
 ## 👋 Sobre Mí
 
 Ingeniero de Sistemas especializado en automatización de procesos y optimización de flujos de trabajo para maximizar la eficiencia y la productividad. Me distingue mi alta capacidad de adaptación y una búsqueda constante de innovación y crecimiento.
 
-🌱 Actualmente ..
-
-- Explorando: Inteligencia Artificial, LangGraph y la nube con AWS.
-- Enfoque: Construir soluciones de alto impacto e impulsar el trabajo colaborativo en equipo.
+🌱 **Actualmente:**
+- **Explorando:** Inteligencia Artificial, LangGraph y la nube con AWS.
+- **Enfoque:** Construir soluciones de alto impacto e impulsar el trabajo colaborativo en equipo.
 
 ---
 
@@ -24,37 +27,31 @@ Ingeniero de Sistemas especializado en automatización de procesos y optimizaci�
 
 <div align="center">
 
-### IA y Automatización
+### <font color="#BDFFF9">🤖 IA y Automatización</font>
 
-<table>
-  <tr>
-    <td align="center" width="110" height="38" style="background-color: #0d1117; border-radius: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" width="20" height="20" alt="Python" valign="middle" />
-      <span style="font-size: 12px; font-weight: bold; color: #fff"> Python</span>
-    </td>
-    <td align="center" width="110" height="38" style="background-color: #0d1117; border-radius: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg" width="20" height="20" alt="LangGraph" valign="middle" />
-      <span style="font-size: 12px; font-weight: bold; color: #fff"> LangGraph</span>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" width="28" height="28" alt="Python" valign="middle" /> 
+  <b>Python</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg" width="28" height="28" alt="LangGraph" valign="middle" /> 
+  <b>LangGraph</b>
+</p>
 
-### Backend
+<br />
 
-<table>
-  <tr>
-    <td align="center" width="110" height="38" style="background-color: #0d1117; border-radius: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" width="20" height="20" alt="FastAPI" valign="middle" />
-      <span style="font-size: 12px; font-weight: bold; color: #fff"> FastAPI</span>
-    </td>
-    <td align="center" width="110" height="38" style="background-color: #0d1117; border-radius: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" width="20" height="20" alt="PostgreSQL" valign="middle" />
-      <span style="font-size: 12px; font-weight: bold; color: #fff"> PostgreSQL</span>
-    </td>
-  </tr>
-</table>
+### <font color="#FF79C6">⚡ Backend</font>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" width="28" height="28" alt="FastAPI" valign="middle" /> 
+  <b>FastAPI</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" width="28" height="28" alt="PostgreSQL" valign="middle" /> 
+  <b>PostgreSQL</b>
+</p>
 
 </div>
+
+---
 
 ## 📊 Estadísticas de GitHub
 
@@ -64,15 +61,19 @@ Ingeniero de Sistemas especializado en automatización de procesos y optimizaci�
 
 </div>
 
+---
+
 ## 🚀 Proyectos Destacados
 
 <div align="center">
 
-| Proyecto                                                                           | Descripción                                       | Tecnologías |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------- | ----------- |
-| **[extractor-de-comprobantes](https://github.com/yassppy/comprobantes_extractor)** | Automatización para la extracción de comprobantes | Python      |
+| Proyecto | Descripción | Tecnologías |
+| :---: | :---: | :---: |
+| **[extractor-de-comprobantes](https://github.com/yassppy/comprobantes_extractor)** | Automatización para la extracción de comprobantes | Python |
 
 </div>
+
+---
 
 ## 📫 ¡Conectemos!
 
