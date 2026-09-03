@@ -57,7 +57,7 @@ Ingeniero de Sistemas especializado en automatizaci√≥n de procesos y optimizaci√
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yassppy&custom_title=Contribuciones%20Activas&bg_color=282a36&color=ff79c6&line=bd93f9&point=f8f8f2&area_color=bd93f9&area=true&hide_border=true&radius=8)
+![Contribution Graph](https://githubusercontent.com)
 
 </div>
 
