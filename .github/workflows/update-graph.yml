@@ -16,15 +16,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: yassppy
-          options: >-
-            bg_color=0d1117&
-            color=1877f2&
-            line=1877f2&
-            point=42b72a&
-            area_color=1877f2&
-            area=true&
-            hide_border=true&
-            custom_title=Contribuciones%20Activas
+          options: "bg_color=0d1117&color=81d4fa&line=2196f3&point=ffffff&area_color=2196f3&area=true&hide_border=true&custom_title=Contribuciones%20Activas"
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
