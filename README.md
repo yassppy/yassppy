@@ -58,6 +58,7 @@ Ingeniero de Sistemas especializado en automatizaci√≥n de procesos y optimizaci√
 <div align="center">
 
 ![Contribution Graph](https://githubusercontent.com)
+![Activity Graph](https://raw.githubusercontent.com/yassppy/yassppy/output/activity-graph.svg)
 
 </div>
 
