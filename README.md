@@ -27,25 +27,34 @@ Ingeniero de Sistemas especializado en automatización de procesos y optimizaci�
 
 ## 🛠️ Stack Tecnológico
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" width="24" height="24" alt="Python" valign="middle" /> <b>Python</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg" width="24" height="24" alt="LangGraph" valign="middle" /> <b>LangGraph</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" width="24" height="24" alt="FastAPI" valign="middle" /> <b>FastAPI</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" width="24" height="24" alt="PostgreSQL" valign="middle" /> <b>PostgreSQL</b>
-</p>
+<table>
+  <tr>
+    <td align="center" nowrap>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" width="24" height="24" alt="Python" valign="middle" /> <b>Python</b>
+    </td>
+    <td align="center" nowrap>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg" width="24" height="24" alt="LangGraph" valign="middle" /> <b>LangGraph</b>
+    </td>
+    <td align="center" nowrap>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" width="24" height="24" alt="FastAPI" valign="middle" /> <b>FastAPI</b>
+    </td>
+    <td align="center" nowrap>
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" width="24" height="24" alt="PostgreSQL" valign="middle" /> <b>PostgreSQL</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 <div align="left">
-  
+
 | Proyecto | Descripción | Tecnologías |
-| :---: | :---: | :---: |
-| **[extractor-de-comprobantes](https://github.com/yassppy/comprobantes_extractor)** | Automatización para la extracción de comprobantes | Python |
+| :--- | :--- | :---: |
+| **[nubecont-automatizacion](https://github.com/yassppy/nubecont-automatizacion)** | Se redujo de 30 minutos a 10 la extracción de comprobantes y validación de RUC con SUNAT | `Python` `Power-Automate` `Go` |
+| **[etl de ventas](https://github.com/yassppy/databricks_ventas)** | Se redujo de 30 minutos a 10 desde la extracción hasta la creación de dashboard en databricks | `Python` `Databricks` |
+| **[agente para verdefit pedidos](https://github.com/yassppy/agent_verdefit_pedidos)** | Automatización del proceso de pedidos de VerdeFIT para orquestar múltiples agentes | `Python` `Google ADK` `PostgreSQL` `FastAPI` |
 
 </div>
 
