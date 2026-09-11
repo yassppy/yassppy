@@ -21,7 +21,7 @@ Ingeniero de Sistemas especializado en automatización de procesos y optimizaci�
 - **Explorando:** Inteligencia Artificial, LangGraph y la nube con AWS.
 - **Enfoque:** Construir soluciones de alto impacto e impulsar el trabajo colaborativo en equipo.
 
-### 📫 Contacto: &nbsp; [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" valign="middle">](https://github.com/yassppy) &nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" valign="middle">](https://www.linkedin.com/in/miguel-mallqui/)
+### 📫 Contacto: &nbsp; [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" valign="middle">](https://github.com/yassppy) &nbsp; [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" valign="middle">](https://www.linkedin.com/in/miguemallqui/)
 
 ---
 
