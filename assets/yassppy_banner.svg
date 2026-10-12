@@ -1,0 +1,70 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06131B"/>
+      <stop offset="0.48" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#15132A"/>
+    </linearGradient>
+    <linearGradient id="border" x1="70" y1="30" x2="1130" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#00D4FF"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 80) rotate(25) scale(320 190)">
+      <stop stop-color="#00D4FF" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 260) rotate(-160) scale(360 190)">
+      <stop stop-color="#7C3AED" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#cyanGlow)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#purpleGlow)"/>
+
+  <g opacity=".12" stroke="#8B949E">
+    <path d="M0 64H1200M0 128H1200M0 192H1200M0 256H1200"/>
+    <path d="M100 0V320M200 0V320M300 0V320M400 0V320M500 0V320M600 0V320M700 0V320M800 0V320M900 0V320M1000 0V320M1100 0V320"/>
+  </g>
+
+  <rect x="34" y="28" width="1132" height="264" rx="22" stroke="url(#border)" stroke-width="2" opacity=".75"/>
+
+  <g transform="translate(74 58)">
+    <circle cx="8" cy="8" r="5.5" fill="#FF5F57"/>
+    <circle cx="29" cy="8" r="5.5" fill="#FEBB2E"/>
+    <circle cx="50" cy="8" r="5.5" fill="#28C840"/>
+
+    <text x="0" y="60" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">YASSPPY / DEV PROFILE</text>
+    <text x="0" y="126" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2">MIG<tspan fill="#00D4FF">UEL</tspan></text>
+    <text x="2" y="168" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">AI Engineer + Backend + Data Engineer</text>
+
+    <rect x="0" y="194" width="164" height="38" rx="19" fill="#161B22" stroke="#30363D"/>
+    <circle cx="21" cy="213" r="5" fill="#28C840"/>
+    <text x="37" y="219" fill="#A5D6FF" font-family="Consolas, Menlo, monospace" font-size="16">Disponible</text>
+  </g>
+
+  <g transform="translate(812 66)">
+    <rect width="292" height="188" rx="18" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+    <rect x="18" y="18" width="256" height="32" rx="9" fill="#161B22"/>
+    <circle cx="34" cy="34" r="5" fill="#00D4FF"/>
+    <rect x="49" y="30" width="88" height="8" rx="4" fill="#30363D"/>
+
+    <text x="22" y="78" fill="#7EE787" font-family="Consolas, Menlo, monospace" font-size="15">const</text>
+    <text x="70" y="78" fill="#79C0FF" font-family="Consolas, Menlo, monospace" font-size="15">yassppy</text>
+    <text x="132" y="78" fill="#C9D1D9" font-family="Consolas, Menlo, monospace" font-size="15">= {</text>
+
+    <text x="36" y="106" fill="#A5D6FF" font-family="Consolas, Menlo, monospace" font-size="14">backend:</text>
+    <text x="108" y="106" fill="#FFA657" font-family="Consolas, Menlo, monospace" font-size="14">'laravel',</text>
+
+    <text x="36" y="132" fill="#A5D6FF" font-family="Consolas, Menlo, monospace" font-size="14">ai:</text>
+    <text x="63" y="132" fill="#FFA657" font-family="Consolas, Menlo, monospace" font-size="14">'python',</text>
+
+    <text x="22" y="158" fill="#C9D1D9" font-family="Consolas, Menlo, monospace" font-size="15">};</text>
+  </g>
+
+  <circle cx="1114" cy="58" r="5" fill="#00D4FF"/>
+  <circle cx="769" cy="258" r="4" fill="#7C3AED"/>
+  <circle cx="735" cy="53" r="3" fill="#00D4FF"/>
+</svg>

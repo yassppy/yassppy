@@ -1,23 +1,13 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:b3e5fc,50:81d4fa,100:4fc3f7&height=200&section=header&text=MIGUEL%20MALLQUI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&descSize=20&descAlignY=55&descAlign=50&desc="/>
-</div>
-
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=2196f3&center=true&vCenter=true&random=false&width=600&height=50&lines=Bienvenido%20%F0%9F%91%8B;Soy%20Miguel%20Mallqui;Te%20invito%20a%20conocer%20mi%20perfil" alt="Typing SVG" />
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=yassppy&style=flat-square&color=2196f3)
-
-</div>
+<p align="center">
+  <img src="./assets/yassppy_banner.svg" width="100%" alt="migue banner" />
+</p>
 
 ## 👋 Sobre Mí
 
 Ingeniero de Sistemas especializado en automatización de procesos y optimización de flujos de trabajo para maximizar la eficiencia y la productividad. Me distingue mi alta capacidad de adaptación y una búsqueda constante de innovación y crecimiento.
 
 ### 🌱 **Actualmente:**
+
 - **Explorando:** Inteligencia Artificial, LangGraph y la nube con AWS.
 - **Enfoque:** Construir soluciones de alto impacto e impulsar el trabajo colaborativo en equipo.
 
@@ -50,11 +40,11 @@ Ingeniero de Sistemas especializado en automatización de procesos y optimizaci�
 
 <div align="left">
 
-| Proyecto | Descripción | Tecnologías |
-| :--- | :--- | :---: |
-| **[nubecont-automatizacion](https://github.com/yassppy/nubecont-automatizacion)** | Se redujo de 30 minutos a 10 la extracción de comprobantes y validación de RUC con SUNAT | `Python` `Power-Automate` `Go` |
-| **[etl de ventas](https://github.com/yassppy/databricks_ventas)** | Se redujo de 30 minutos a 10 desde la extracción hasta la creación de dashboard en databricks | `Python` `Databricks` |
-| **[agente para verdefit pedidos](https://github.com/yassppy/agent_verdefit_pedidos)** | Automatización del proceso de pedidos de VerdeFIT para orquestar múltiples agentes | `Python` `Google ADK` `PostgreSQL` `FastAPI` |
+| Proyecto                                                                              | Descripción                                                                                   |                 Tecnologías                  |
+| :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------- | :------------------------------------------: |
+| **[nubecont-automatizacion](https://github.com/yassppy/nubecont-automatizacion)**     | Se redujo de 30 minutos a 10 la extracción de comprobantes y validación de RUC con SUNAT      |        `Python` `Power-Automate` `Go`        |
+| **[etl de ventas](https://github.com/yassppy/databricks_ventas)**                     | Se redujo de 30 minutos a 10 desde la extracción hasta la creación de dashboard en databricks |            `Python` `Databricks`             |
+| **[agente para verdefit pedidos](https://github.com/yassppy/agent_verdefit_pedidos)** | Automatización del proceso de pedidos de VerdeFIT para orquestar múltiples agentes            | `Python` `Google ADK` `PostgreSQL` `FastAPI` |
 
 </div>
 
@@ -63,7 +53,7 @@ Ingeniero de Sistemas especializado en automatización de procesos y optimizaci�
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
+
 ![Activity Graph](https://raw.githubusercontent.com/yassppy/yassppy/output/activity-graph.svg)
 
 </div>
