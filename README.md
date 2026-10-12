@@ -17,36 +17,38 @@ Ingeniero de Sistemas especializado en automatización de procesos y optimizaci�
 
 ## 🛠️ Stack Tecnológico
 
-<table>
-  <tr>
-    <td align="center" nowrap>
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/python/default.svg" width="24" height="24" alt="Python" valign="middle" /> <b>Python</b>
-    </td>
-    <td align="center" nowrap>
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/langgraph/default.svg" width="24" height="24" alt="LangGraph" valign="middle" /> <b>LangGraph</b>
-    </td>
-    <td align="center" nowrap>
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fastapi/default.svg" width="24" height="24" alt="FastAPI" valign="middle" /> <b>FastAPI</b>
-    </td>
-    <td align="center" nowrap>
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/postgresql/default.svg" width="24" height="24" alt="PostgreSQL" valign="middle" /> <b>PostgreSQL</b>
-    </td>
-  </tr>
-</table>
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### Data & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-<div align="left">
-
-| Proyecto                                                                              | Descripción                                                                                   |                 Tecnologías                  |
-| :------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------- | :------------------------------------------: |
-| **[nubecont-automatizacion](https://github.com/yassppy/nubecont-automatizacion)**     | Se redujo de 30 minutos a 10 la extracción de comprobantes y validación de RUC con SUNAT      |        `Python` `Power-Automate` `Go`        |
-| **[etl de ventas](https://github.com/yassppy/databricks_ventas)**                     | Se redujo de 30 minutos a 10 desde la extracción hasta la creación de dashboard en databricks |            `Python` `Databricks`             |
-| **[agente para verdefit pedidos](https://github.com/yassppy/agent_verdefit_pedidos)** | Automatización del proceso de pedidos de VerdeFIT para orquestar múltiples agentes            | `Python` `Google ADK` `PostgreSQL` `FastAPI` |
-
-</div>
+| Proyecto                                                                             | Descripción                                                                          | Tecnologías                                                                                                                                                                                                                                                                                                                                                        |
+| :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚡ **[Nubecont Automatización](https://github.com/yassppy/nubecont-automatizacion)** | Reducción de 30 a 10 min en extracción de comprobantes y validación RUC en SUNAT.    | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="22" />    |
+| 📊 **[ETL de Ventas](https://github.com/yassppy/databricks_ventas)**                 | Pipeline ETL optimizado (30 a 10 min) hasta la creación de dashboards en Databricks. | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" height="22" />                                                                                                                      |
+| 🤖 **[Agente VerdeFIT Pedidos](https://github.com/yassppy/agent_verdefit_pedidos)**  | Sistema orquestador multi-agente para automatización de toma de pedidos.             | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="22" /> |
 
 ---
 
